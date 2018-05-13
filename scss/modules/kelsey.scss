@@ -1,0 +1,134 @@
+#page-container3 {
+	margin: 0;
+	padding: 0;
+	width: 100vw;
+	height: 100vh;
+	background-color: #f2f6fc;
+}
+#map3 {
+	height: 100%;
+    width: 100%;
+}
+#content-container3{
+	position: relative;
+	float: left;
+	width: 44%;
+	height: 80vh;
+	margin: 0px;
+	background-color: #2e3940;
+}
+#container3 {
+	margin: 0 auto;
+	padding: 0;
+	margin-top: 15px;
+	width: 90%;
+	height: 80vh;
+
+}
+#map-contianer3{
+	float: right;
+	 height: 100%;
+	 max-height: 1000px;
+	 width: 55%
+}
+#heading3{
+	// float: left;
+	text-align: center;
+	// margin-left: 25%;
+	font-size: 30px;
+	color: white;
+
+}
+.return-btn3{
+	margin-top: 20px;
+	margin-left: 80px;
+
+}
+
+.browser-default {
+	width: 90%;
+	border-radius: 0px;
+
+}
+
+.sub-btn3 {
+	margin-left: 40%;
+	margin-top: -20px;
+	
+}
+#radio-container3{
+	width: 30%;
+	height: 120px;
+}
+#form3 {
+	margin-left: 20px;
+	label {
+		color: white;
+	}
+}
+	
+[type="radio"]:not(:checked)+label:before, [type="radio"]:not(:checked)+label:after {
+	border: 2px solid white;
+}
+
+#details3 {
+	margin-top: 10px;
+	// background-color: white;
+	width: 100%;
+	height: 50%;
+}
+
+#heading-two3{
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	margin-top: 45px;
+}
+#radio-one3 {
+position: absolute;
+left:6%;
+top:15%;
+font-family: "Roboto", sans-serif;
+padding-left: 0px;
+
+
+}
+#radio-two3 {
+position: absolute;
+left: 38%;
+top:15%;
+ font-family: "Roboto", sans-serif;
+ padding-left: 0px;
+}
+#radio-three3 {
+position: absolute;
+left:70%;
+top:15%;
+ font-family: "Roboto", sans-serif;
+ padding-left: 0px;
+}
+
+#names3{
+	width:50%;
+	border: 1px solid white;
+	height: 150px;
+	margin-left: 150px;
+	margin-top: 50px;
+	
+}
+
+#names3{
+	#name-details3{
+		color: white;
+		font-family: "Roboto", sans-serif;
+		padding-left: 5px;
+		padding-right: 5px;
+
+	}
+	#address-details3 {
+		color: white;
+		 font-family: "Roboto", sans-serif;
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+}
